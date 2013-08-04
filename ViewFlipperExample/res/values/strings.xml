@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">ViewFlipper Example</string>    
+    <string name="lightning">Natural Lightning</string>
+    <string name="color_baloons">Color Baloons</string>
+    <string name="natural_wall">Natural Wall</string>
+</resources>
