@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="news_headlines">
+        <item>WFG National Title adds new senior vice president</item>
+        <item>Title365 Co. appoints chief compliance officer</item>
+        <item>Subscriber Access OnlyTitle Resource Group’s Sunbelt Title expands operations in Florida through acquisition of Security First Title &amp; Escrow</item>
+        <item>Subscriber Access OnlyInvestors Title Company announces second quarter 2013 results</item>
+        <item>Subscriber Access OnlyPontoon Beach man charged with title fraud</item>
+        <item>Subscriber Access OnlyFederal Title &amp; Escrow shows 5,000 downloads of Close It! in three months</item>
+        <item>Former vice president returns to North American Title Insurance Co.</item>
+        <item>Subscriber Access OnlyFirst Title completes SSAE 16 compliance report</item>
+        <item>reQuire grows account management team with new hire</item>
+        <item>Subscriber Access OnlyWestcor announces Pennsylvania state agency manager</item>
+        <item>CoreLogic says bond credit quality outlook improves in first quarter 2013</item>
+        <item>Core Logic Case-Shiller Home Price Indexes reveal surge in home prices in first quarter</item>
+    </string-array>
+    <string-array name="news_pubdate">
+        <item>8/13/2013</item>
+        <item>12/13/2013</item>
+        <item>3/13/2013</item>
+        <item>13/13/2013</item>
+        <item>14/13/2013</item>
+        <item>6/13/2013</item>
+        <item>7/12/2013</item>
+        <item>9/12/2013</item>
+        <item>8/12/2013</item>
+        <item>10/12/2013</item>
+        <item>6/12/2013</item>
+        <item>8/8/2013</item>
+    </string-array>
+    
+    <string-array name="news_details">
+        <item>WFG National Title Insurance Co. added Robert Horvat to serve as senior vice president of Northwest operations and 
+            divisional counsel. He will primarily support WFG National Title’s Oregon and Washington title operations. In his role, 
+            he will offer underwriting, claims and general legal counsel; provide internal and outside training and support all aspects of daily operations.		</item>
+		<item>Title365 Co., a provider of title insurance and escrow services, promoted Clay White to chief compliance officer from director of compliance and 
+		    implementations. In his new role, he will be responsible for regulatory compliance, audits and procedural standards along with assessment of potential 
+		    risks and opportunities for industry innovation of benefit to Title365 clients.
+		</item>
+		<item>WFG National Title Insurance Co. added Robert Horvat to serve as senior vice president of Northwest operations and 
+            divisional counsel. He will primarily support WFG National Title’s Oregon and Washington title operations. In his role, 
+            he will offer underwriting, claims and general legal counsel; provide internal and outside training and support all aspects of daily operations.
+		</item>
+		<item>WFG National Title Insurance Co. added Robert Horvat to serve as senior vice president of Northwest operations and 
+            divisional counsel. He will primarily support WFG National Title’s Oregon and Washington title operations. In his role, 
+            he will offer underwriting, claims and general legal counsel; provide internal and outside training and support all aspects of daily operations.
+		</item>
+		<item>WFG National Title Insurance Co. added Robert Horvat to serve as senior vice president of Northwest operations and 
+            divisional counsel. He will primarily support WFG National Title’s Oregon and Washington title operations. In his role, 
+            he will offer underwriting, claims and general legal counsel; provide internal and outside training and support all aspects of daily operations.
+		</item>
+		<item>WFG National Title Insurance Co. added Robert Horvat to serve as senior vice president of Northwest operations and 
+            divisional counsel. He will primarily support WFG National Title’s Oregon and Washington title operations. In his role, 
+            he will offer underwriting, claims and general legal counsel; provide internal and outside training and support all aspects of daily operations.
+		</item>
+		<item>Title365 Co., a provider of title insurance and escrow services, promoted Clay White to chief compliance officer from director of compliance and 
+		    implementations. In his new role, he will be responsible for regulatory compliance, audits and procedural standards along with assessment of potential 
+		    risks and opportunities for industry innovation of benefit to Title365 clients.
+		</item>
+		<item>WFG National Title Insurance Co. added Robert Horvat to serve as senior vice president of Northwest operations and 
+            divisional counsel. He will primarily support WFG National Title’s Oregon and Washington title operations. In his role, 
+            he will offer underwriting, claims and general legal counsel; provide internal and outside training and support all aspects of daily operations.
+		</item>
+		<item>Title365 Co., a provider of title insurance and escrow services, promoted Clay White to chief compliance officer from director of compliance and 
+		    implementations. In his new role, he will be responsible for regulatory compliance, audits and procedural standards along with assessment of potential 
+		    risks and opportunities for industry innovation of benefit to Title365 clients.
+		</item>
+		<item>WFG National Title Insurance Co. added Robert Horvat to serve as senior vice president of Northwest operations and 
+            divisional counsel. He will primarily support WFG National Title’s Oregon and Washington title operations. In his role, 
+            he will offer underwriting, claims and general legal counsel; provide internal and outside training and support all aspects of daily operations.
+		</item>
+		<item>Title Resource Group expanded its Sunbelt Title operations into Brevard County, Fla., through the acquisition of Security First Title &amp; Escrow.
+		     The newly acquired company’s three offices are in Melbourne, Merritt Island and Orlando. It will now operate as Sunbelt Title Agency, which is 
+		     owned and operated by TRG.
+		</item>
+		<item>Title365 Co., a provider of title insurance and escrow services, promoted Clay White to chief compliance officer from director of compliance and 
+		    implementations. In his new role, he will be responsible for regulatory compliance, audits and procedural standards along with assessment of potential 
+		    risks and opportunities for industry innovation of benefit to Title365 clients.
+		</item>
+    </string-array>
+
+</resources>
