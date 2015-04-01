@@ -5,14 +5,16 @@
     android:layout_marginTop="5dp"
     android:orientation="vertical"
     android:padding="5dp" 
-    android:clickable="true"
+    android:clickable="false"
     android:background="@drawable/grid_color_selector"
-    android:focusable="true">
+  	android:focusable="false"
+    >
 
     <ImageView
         android:id="@+id/image"
         android:layout_width="100dp"
-        android:layout_height="100dp" >
+        android:layout_height="100dp"
+        >
     </ImageView>
 
     <TextView
@@ -21,7 +23,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
         android:gravity="center"
-        android:textSize="12sp" >
+        android:textSize="12sp" 
+        >
     </TextView>
 
 </LinearLayout>

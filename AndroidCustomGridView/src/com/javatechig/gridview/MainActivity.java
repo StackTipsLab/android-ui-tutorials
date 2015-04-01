@@ -1,16 +1,20 @@
 package com.javatechig.gridview;
 
 import java.util.ArrayList;
-import android.os.Bundle;
+
 import android.app.Activity;
 import android.content.res.TypedArray;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
 import android.widget.Toast;
+
+
 
 /**
  * 
@@ -33,6 +37,7 @@ public class MainActivity extends Activity {
 		gridView.setOnItemClickListener(new OnItemClickListener() {
 			public void onItemClick(AdapterView<?> parent, View v,
 					int position, long id) {
+				Log.e("item", "clicked");
 				Toast.makeText(MainActivity.this, position + "#Selected",
 						Toast.LENGTH_SHORT).show();
 			}
