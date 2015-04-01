@@ -15,7 +15,7 @@
         android:numColumns="auto_fit"
         android:verticalSpacing="5dp"
         android:drawSelectorOnTop="true"
-        android:stretchMode="columnWidth">
+        android:stretchMode="columnWidth" >
     </GridView>
 
 </RelativeLayout>
