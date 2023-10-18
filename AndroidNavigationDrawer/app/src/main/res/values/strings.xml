@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+
+    <string-array name="menus">
+        <item>Home</item>
+        <item>Android</item>
+        <item>Xamarin</item>
+        <item>WordPress</item>
+        <item>Java</item>
+        <item>Tools</item>
+        <item>Servlets</item>
+    </string-array>
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+</resources>
