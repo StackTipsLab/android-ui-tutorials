@@ -18,10 +18,9 @@ public class MainActivity extends Activity {
 		ImageView imageView = (ImageView) findViewById(R.id.imageView2);
 		imageView.setImageResource(R.drawable.image1);
 		
-		imageView.setOnClickListener(new OnClickListener() {
-			
+		imageView.setOnClickListener(new View.OnClickListener() {
 			@Override
-			public void onClick(View arg0) {
+			public void onClick(View v) {
 				Toast.makeText(getApplicationContext(), "Clicked Second Image", 40000).show();
 			}
 		});
