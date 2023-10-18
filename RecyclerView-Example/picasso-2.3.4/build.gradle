@@ -1,2 +1,0 @@
-configurations.create("default")
-artifacts.add("default", file('picasso-2.3.4.jar'))
