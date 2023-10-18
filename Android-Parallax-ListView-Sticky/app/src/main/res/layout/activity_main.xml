@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/heroImageView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/wallpaper"
+        android:scaleType="fitCenter" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="#9E9E9E"
+        android:dividerHeight="1dp"
+        android:scrollbars="none"></ListView>
+
+    <TextView
+        android:id="@+id/stickyView"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#222"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="Heading1"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</FrameLayout>
+

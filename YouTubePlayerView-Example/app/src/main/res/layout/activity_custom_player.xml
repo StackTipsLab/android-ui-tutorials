@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.stacktips.youtube.MainActivity">
+
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:id="@+id/youtube_player_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ebeff2" />
+
+
+    <LinearLayout
+        android:id="@+id/video_control"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#444"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:weightSum="10">
+
+        <ImageButton
+            android:id="@+id/play_video"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:src="@drawable/ic_play" />
+
+        <ImageButton
+            android:id="@+id/pause_video"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:src="@drawable/ic_pause" />
+
+        <SeekBar
+            android:id="@+id/video_seekbar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="6"
+            android:max="100"
+            android:progress="0" />
+
+        <TextView
+            android:id="@+id/play_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="2"
+            android:text="--:--"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</LinearLayout>

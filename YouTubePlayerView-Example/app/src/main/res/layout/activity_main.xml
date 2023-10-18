@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context="com.stacktips.youtube.MainActivity">
+
+    <Button
+        android:id="@+id/basic_player_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/basic_player" />
+
+    <Button
+        android:id="@+id/minimal_player_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/minimal_player" />
+
+    <Button
+        android:id="@+id/custom_player_control_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/custom_player_control" />
+
+    <Button
+        android:id="@+id/player_fragment_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/player_fragment" />
+
+</LinearLayout>

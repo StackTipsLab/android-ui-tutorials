@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="top_item">#a6c</color>
+    <color name="sticky_item">#fff</color>
+    <color name="sticky_item_text">#09c</color>
+    <color name="listview_item">#282828</color>
+</resources>
