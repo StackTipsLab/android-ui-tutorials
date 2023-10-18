@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quick Settings Example</string>
+
+    <string name="tile_label">Show Tips</string>
+    <string name="hint">Quick Settings Tile Example</string>
+
+
+</resources>
