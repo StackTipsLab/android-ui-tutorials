@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="blogging">Write Blog</string>
+    <string name="music">Listen Music</string>
+    <string name="game">Play Games</string>
+    <string name="submit">Submit</string>
+    <string name="hint">What do you like do in your free time?</string>
+
+</resources>
